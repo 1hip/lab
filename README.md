@@ -1,2 +1,2 @@
-# lab
-my first github repository
+# Hello world
+this is first github repository
